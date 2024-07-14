@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8bc9356f5bd91bbc",
+        "id": "eb0e5edc52e43682",
         "type": "tabs",
         "children": [
           {
-            "id": "9e41a706a9c0421e",
+            "id": "d35a55aaf147784a",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "fd8b81a3f4f0acca",
+            "id": "0d82aec27f21c255",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,7 +28,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,7 +47,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Productivity/Calendar/Monthly Notes/07.2024.md"
+              }
             }
           },
           {
@@ -88,6 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Productivity/Calendar/Monthly Notes/07.2024.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Productivity/Calendar/Monthly Notes/07.2024.md"
+              }
             }
           }
         ]
@@ -220,12 +226,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9e41a706a9c0421e",
+  "active": "02d908fadc1414bb",
   "lastOpenFiles": [
     "Productivity/Calendar/Monthly Notes/07.2024.md",
+    "Formatting/Templates/Periodic Templates/{{month}}.md",
+    "Formatting/Templates/Periodic Templates/{{week}}.md",
     "Productivity/Calendar/Daily Notes/07.14.2024.md",
     "Law School/1L/Fall/Contracts I/Contracts I.md",
-    "Formatting/Templates/Periodic Templates/{{month}}.md",
     "Law School/1L/Spring/Contracts II/Contracts II.md",
     "Law School/1L/Spring/Legal Research, Writing, and Analysis II (EL)/Legal Research, Writing, and Analysis II (EL).md",
     "Law School/1L/Fall/Torts/Torts.md",
@@ -238,7 +245,6 @@
     "Law School/1L/Spring/Civil Procedure/Civil Procedure.md",
     "Law School/1L/Spring/Constitutional Law I/Constitutional Law I.md",
     "Productivity/Calendar/Weekly Notes/W28.2024.md",
-    "Formatting/Templates/Periodic Templates/{{week}}.md",
     "Formatting/Pics/kit.gif",
     "Library/Articles/2020_Engaging North Korea_songEngagingNorthKorea.md",
     "Library/Books/Oda - One Piece Series.md",

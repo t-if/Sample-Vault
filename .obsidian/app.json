@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "showInlineTitle": false,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "defaultViewMode": "preview"
 }

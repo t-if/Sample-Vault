@@ -27,7 +27,7 @@ icon: LiGitFork
 >  ```
 
 > [!hint|float-right-medium]+ Shortcuts 
->  - 
+>  - [Update Day Planner](obsidian://advanced-uri?vault=Sample%20Vault&commandid=quickadd%253Achoice%253A52c94927-ce51-4d00-9dbf-72bb5c5b33f5)
 
 
 ```page-gallery
