@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "8fe06453bd26b6f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bc9356f5bd91bbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e41a706a9c0421e",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd8b81a3f4f0acca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Productivity/Calendar/Monthly Notes/07.2024.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9c5b98f6a51e5fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e88dc35767ca077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8c3ed41d877a457",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f45fc691ab33bd3",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "02d908fadc1414bb",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "943d36b613d19493",
+    "type": "split",
+    "children": [
+      {
+        "id": "50d3325443e872e1",
+        "type": "tabs",
+        "dimension": 32.76231263383298,
+        "children": [
+          {
+            "id": "9a99f7d920939555",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8592042023892115,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "683ee0b4eb4668c1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "85568b53b2375801",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0abdb3475f415cc1",
+        "type": "tabs",
+        "dimension": 67.23768736616702,
+        "children": [
+          {
+            "id": "1088c3a9112ae3f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "752b8db8816983e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45acfff0bd7779eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eee0b785f3d01664",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "bc1bbc24794bf61d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-day-planner:Timeline": false,
+      "homepage:Open homepage": false,
+      "ledger-obsidian:Add to Ledger": false,
+      "nested-daily-todos:Add incomplete todos to today's note": false,
+      "open-weather:OpenWeather": false,
+      "surfing:surfing-bookmark-manager": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "9e41a706a9c0421e",
+  "lastOpenFiles": [
+    "Productivity/Calendar/Monthly Notes/07.2024.md",
+    "Productivity/Calendar/Daily Notes/07.14.2024.md",
+    "Law School/1L/Fall/Contracts I/Contracts I.md",
+    "Formatting/Templates/Periodic Templates/{{month}}.md",
+    "Law School/1L/Spring/Contracts II/Contracts II.md",
+    "Law School/1L/Spring/Legal Research, Writing, and Analysis II (EL)/Legal Research, Writing, and Analysis II (EL).md",
+    "Law School/1L/Fall/Torts/Torts.md",
+    "Law School/1L/1L.md",
+    "Law School/1L/Fall/Legal Research, Writing, and Analysis I/Legal Research, Writing, and Analysis I.md",
+    "Law School/1L/Fall/Legislation and Regulation/Legislation and Regulation.md",
+    "Law School/1L/Fall/Criminal Law/Criminal Law.md",
+    "Formatting/Templates/Periodic Templates/{{date}}.md",
+    "Law School/1L/Spring/Property/Property.md",
+    "Law School/1L/Spring/Civil Procedure/Civil Procedure.md",
+    "Law School/1L/Spring/Constitutional Law I/Constitutional Law I.md",
+    "Productivity/Calendar/Weekly Notes/W28.2024.md",
+    "Formatting/Templates/Periodic Templates/{{week}}.md",
+    "Formatting/Pics/kit.gif",
+    "Library/Articles/2020_Engaging North Korea_songEngagingNorthKorea.md",
+    "Library/Books/Oda - One Piece Series.md",
+    "Library/Books/Greene - The Art of Seduction.md",
+    "Library/Articles/2020_From war zone to biosphere reserve.md",
+    "Library/Articles/2021_National parks in North Korea.md",
+    "Library/Articles/2020_tacikowskiFluidityGenderIdentity.md",
+    "Library/Articles/2020_Illumin8FishNK.md",
+    "Library/Articles/2017__limImpactDeforestationAgroEnvironmental.md",
+    "Library/Articles/2009_Unbearable Legacies.md",
+    "Productivity/Shopping List.loom",
+    "Productivity/transactions.ledger",
+    "Formatting/Pics/Banners/original.gif",
+    "Formatting/Pics/Banners/perks.gif",
+    "Formatting/Pics/Banners/skyline.gif",
+    "Formatting/Pics/Banners/legs.gif",
+    "Formatting/Pics/Banners/airpt.gif",
+    "Law School/0L/SMU 2024 Summer Packet.pdf",
+    "Home/Hobbies/Social Media/YouTube Stream Bundle - Purple Kitty.zip",
+    "Home/Hobbies/Social Media/github-recovery-codes.txt",
+    "Home/Hobbies/Gaming/Gen9RandomBattle-2024-05-03-tffny-magvir.html",
+    "Home/Hobbies/Social Media",
+    "Home/Hobbies/Gaming",
+    "Home/Hobbies",
+    "Home/Hobbies/New folder",
+    "Formatting/Pics/Banners/coder.gif",
+    "Formatting/Pics/Banners/city.gif",
+    "Productivity/Hold/Reassigned Tasks.canvas",
+    "Formatting/Pics/Banners/magicrainbow.gif",
+    "Formatting/Pics/Banners/mecha.gif",
+    "Productivity/Sketchbook/Reassigned Tasks.canvas"
+  ]
+}

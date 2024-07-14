@@ -1,0 +1,79 @@
+[
+  {
+    "color": "255, 214, 0",
+    "char": "&",
+    "icon": "lucide-sparkles"
+  },
+  {
+    "color": "255, 145, 0",
+    "char": "?",
+    "icon": "lucide-key-round"
+  },
+  {
+    "color": "255, 23, 68",
+    "char": "!",
+    "icon": "lucide-cherry"
+  },
+  {
+    "color": "124, 77, 255",
+    "char": "~",
+    "icon": "lucide-crown"
+  },
+  {
+    "color": "0, 184, 212",
+    "char": "@",
+    "icon": "lucide-fish"
+  },
+  {
+    "color": "0, 200, 83",
+    "char": "$",
+    "icon": "lucide-leaf"
+  },
+  {
+    "color": "158, 158, 158",
+    "char": "%",
+    "icon": "bot-glyph"
+  },
+  {
+    "char": "=",
+    "color": "245, 207, 231",
+    "icon": "lucide-ghost",
+    "custom": true
+  },
+  {
+    "char": ";",
+    "color": "255, 159, 231",
+    "icon": "lucide-heart",
+    "custom": true
+  },
+  {
+    "char": "^",
+    "color": "203, 166, 247",
+    "icon": "lucide-cat",
+    "custom": true
+  },
+  {
+    "char": "|",
+    "color": "180, 190, 254",
+    "icon": "lucide-coffee",
+    "custom": true
+  },
+  {
+    "char": "\\",
+    "color": "148, 226, 213",
+    "icon": "lucide-gamepad-2",
+    "custom": true
+  },
+  {
+    "char": ",",
+    "color": "137, 220, 235",
+    "icon": "lucide-gem",
+    "custom": true
+  },
+  {
+    "char": "<",
+    "color": "116, 199, 236",
+    "icon": "lucide-cup-soda",
+    "custom": true
+  }
+]

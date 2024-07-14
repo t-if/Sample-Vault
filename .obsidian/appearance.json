@@ -1,0 +1,22 @@
+{
+  "accentColor": "#c18bac",
+  "theme": "system",
+  "cssTheme": "🔔 Chime",
+  "textFontFamily": "Miriam Mono CLM",
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": "Courier",
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "naked",
+    "imgedits",
+    "rainbow",
+    "bullets",
+    "bubble",
+    "altcheck",
+    "banner",
+    "callcolumn",
+    "wiki"
+  ]
+}

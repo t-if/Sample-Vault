@@ -1,0 +1,523 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": "#ff9fe7",
+    "recentlyUsedIcons": [
+      "LiBook",
+      "LiCalendarCheck",
+      "LiBookCopy",
+      "LiMusic",
+      "LiClock",
+      "LiGitFork",
+      "LiSparkles",
+      "💮",
+      "LiFlower",
+      "LiSmile",
+      "LiHand",
+      "LiList",
+      "LiFlag",
+      "LiCloudSunRain",
+      "LiPill",
+      "LiLedger",
+      "LiSun",
+      "LiHourglass",
+      "LiBriefcase",
+      "LiSettings",
+      "LiPenTool",
+      "LiBot",
+      "LiScale",
+      "LiCarFront",
+      "LiFolderCheck"
+    ],
+    "recentlyUsedIconsSize": 25,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": false,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Productivity/Calendar/Daily Notes/07.01.2024.md": "LiDog",
+  "Productivity/Calendar/Daily Notes/05.25.2024.md": "LiDog",
+  "Productivity/Calendar/Daily Notes/07.03.2024.md": "LiDog",
+  "Home/Health/Harm Reduction.md": "TiBong",
+  "Productivity/Calendar/Daily Notes/07.02.2024.md": {
+    "iconName": "LiDog"
+  },
+  "Productivity/Calendar/Daily Notes/05.20.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/05.23.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/05.19.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/05.24.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/05.21.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/05.22.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/05.27.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/05.26.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/05.28.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/05.29.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/05.30.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/05.31.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.03.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.01.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.02.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.07.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.05.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.08.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.04.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.06.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.09.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.11.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.10.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.20.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.19.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.21.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.22.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.25.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.23.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.26.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.24.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.27.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.28.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.29.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/06.30.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/07.04.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/07.06.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/07.07.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/07.09.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/07.10.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/07.05.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Daily Notes/07.08.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Formatting/Templates/Periodic Templates/{{date}}.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Connections/05.2024 Connections.md": {
+    "iconName": "LiBot"
+  },
+  "Productivity/Connections/06.2024 Connections.md": {
+    "iconName": "LiBot"
+  },
+  "Productivity/Hold/05.2024 Holds.md": {
+    "iconName": "LiHand"
+  },
+  "Productivity/Hold/06.2024 Holds.md": {
+    "iconName": "LiHand"
+  },
+  "Formatting/Templates/Periodic Templates/{{week}}.md": {
+    "iconName": "LiCalendarCheck"
+  },
+  "Home/Address Book/Contacts/Anthony.md": {
+    "iconName": "LiUser"
+  },
+  "Home/Address Book/Contacts/Bailey.md": {
+    "iconName": "LiUser"
+  },
+  "Home/Address Book/Contacts/Humzah.md": {
+    "iconName": "LiUser"
+  },
+  "Home/Address Book/Contacts/Kai.md": {
+    "iconName": "LiUser"
+  },
+  "Home/Address Book/Contacts/Nick.md": {
+    "iconName": "LiUser"
+  },
+  "Home/Address Book/Contacts/Parisa.md": {
+    "iconName": "LiUser"
+  },
+  "Home/Address Book/Contacts/Richard.md": {
+    "iconName": "LiUser"
+  },
+  "Home/Address Book/Contacts/Vincent.md": {
+    "iconName": "LiUser"
+  },
+  "Home/Address Book/Services/Altitude Pole Fitness.md": {
+    "iconName": "LiMapPin"
+  },
+  "Home/Address Book/Services/Brilliant Mind.md": {
+    "iconName": "LiMapPin"
+  },
+  "Home/Address Book/Services/Heal360.md": {
+    "iconName": "LiMapPin"
+  },
+  "Home/Address Book/Services/Monarch Dental.md": {
+    "iconName": "LiMapPin"
+  },
+  "Home/Address Book/Services/Orofacial Pain Associates.md": {
+    "iconName": "LiMapPin"
+  },
+  "Home/Address Book/Services/PerfectRX Pharmacy.md": {
+    "iconName": "LiMapPin"
+  },
+  "Home/Address Book/Services/Promont Dental.md": {
+    "iconName": "LiMapPin"
+  },
+  "Home/Address Book/Services/The Pin Cushion.md": {
+    "iconName": "LiMapPin"
+  },
+  "Home/Address Book/Services/Walgreens Pharmacy.md": {
+    "iconName": "LiMapPin"
+  },
+  "Home/Address Book/Contact Me.md": {
+    "iconName": "LiPersonStanding"
+  },
+  "Home/Perfumery/300 Years.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Abe Lincoln, Ancient Astronaut Expert.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Arcanum.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Attorney for Lost Souls.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Bast.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Cotton Mather.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Dead Men Only Play the Blues.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Death By Stereo!.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Drakon.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Farkas.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Fetish.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Grimm.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Hippie Spirit.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Honored Ghosts.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/I Crash, You Crash.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/If You're Reading This, Get a Hobby.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/It's History, It's Poetry.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Jane Doe.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Je Veux Mon Livre.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Kamarasa.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Lapis Nephriticus.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Lycanthrope.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Mare Serenitas.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Ophidia.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Party At The Moon Tower.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Perfumery.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Reefer Madness.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Rumor.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Sol Daemonium.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Soma.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Star Shopping.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/The Vanishing Hitchhiker.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Perfumery/Vice.md": {
+    "iconName": "TiPerfume"
+  },
+  "Home/Beauty/Artclass By Rodin Shading.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Beauty.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Bushy Brow Gel.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Creme Gel Eyeliner.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Dew Jelly Cushion.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Dewy Setting Spray.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Diamond Bomb All-Over Diamond Veil.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Dr. Pickles Miraculous Beauty Dust.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Epic Ink Liner.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Heroine Make Eyeliner.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Ink Velvet Lip Liner.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Matte Fluid Eye Paint.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Plushies.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Retractable Eyeliner Pencil.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Telescopic Mascara.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Velvetines.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Venus 2 XL Palette.md": {
+    "iconName": "LiComponent"
+  },
+  "Home/Beauty/Venus Immortalis Palette.md": {
+    "iconName": "LiComponent"
+  },
+  "Productivity/Productivity.md": {
+    "iconName": "LiAlarmClock"
+  },
+  "Library/Articles/2020_Engaging North Korea_songEngagingNorthKorea.md": {
+    "iconName": "LiBookmark"
+  },
+  "Library/Books/Oda - One Piece Series.md": {
+    "iconName": "LiBookmark"
+  },
+  "Library/Editing/2024_seoPromotingUnificationKorean.md": {
+    "iconName": "LiBookmark"
+  },
+  "Library/Library.md": {
+    "iconName": "LiBookOpen"
+  },
+  "Law School/1L/1L.md": {
+    "iconName": "LiApple"
+  },
+  "Law School/1L/Fall/Contracts I/Contracts I.md": {
+    "iconName": "LiBook"
+  },
+  "Law School/1L/Fall/Criminal Law/Criminal Law.md": {
+    "iconName": "LiBook"
+  },
+  "Law School/1L/Fall/Legal Research, Writing, and Analysis I/Legal Research, Writing, and Analysis I.md": {
+    "iconName": "LiBook"
+  },
+  "Law School/1L/Fall/Legislation and Regulation/Legislation and Regulation.md": {
+    "iconName": "LiBook"
+  },
+  "Law School/1L/Fall/Torts/Torts.md": {
+    "iconName": "LiBook"
+  },
+  "Law School/1L/Academic Calendar 2024-25.md": {
+    "iconName": "LiSchool"
+  },
+  "Home/Home.md": {
+    "iconName": "LiHome"
+  },
+  "Home/Shopping List.loom": "LiShoppingBag",
+  "Library/Books/One Piece Progress.loom": "LiAnchor",
+  "Career/Legal/CTLaw Group/Cases/Personal Injury/Personal Injury.md": {
+    "iconName": "LiCarFront"
+  },
+  "Career/Legal/Legal.md": {
+    "iconName": "LiScale"
+  },
+  "Career/Legal/CTLaw Group/CTLaw Group.md": {
+    "iconName": "LiScale"
+  },
+  "Career/Education/Education.md": {
+    "iconName": "LiApple"
+  },
+  "Career/Education/Best Academy/Best Academy.md": {
+    "iconName": "LiApple"
+  },
+  "Career/Education/Elite Prep/Elite Prep.md": {
+    "iconName": "LiApple"
+  },
+  "Productivity/Sketchbook/Sketchbook.md": {
+    "iconName": "LiPenTool"
+  },
+  "Career/Career.md": {
+    "iconName": "LiBriefcase"
+  },
+  "Productivity/Hours.loom": "LiClock",
+  "Productivity/transactions.ledger": "LiLedger",
+  "Home/Health/Health.md": {
+    "iconName": "LiPill"
+  },
+  "Formatting/Pics/Banners/Banners.md": {
+    "iconName": "LiFlag"
+  },
+  "Productivity/Calendar/Daily Notes/07.11.2024.md": "LiCloudSunRain",
+  "Productivity/Calendar/Daily Notes/07.12.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Hold/07.2024 Holds.md": {
+    "iconName": "LiHand"
+  },
+  "Formatting/Templates/Periodic Templates/{{month}}.md": {
+    "iconName": "LiGitFork"
+  },
+  "Productivity/Calendar/Daily Notes/07.13.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Career/Commissions/Commissions.md": {
+    "iconName": "LiBookCopy"
+  },
+  "Productivity/Connections/07.2024 Connections.md": {
+    "iconName": "LiBot"
+  },
+  "Productivity/Calendar/Daily Notes/07.14.2024.md": {
+    "iconName": "LiCloudSunRain"
+  },
+  "Productivity/Calendar/Weekly Notes/W28.2024.md": {
+    "iconName": "LiCalendarCheck"
+  },
+  "Law School/1L/Spring/Constitutional Law I/Constitutional Law I.md": {
+    "iconName": "LiBook"
+  },
+  "Law School/1L/Spring/Civil Procedure/Civil Procedure.md": {
+    "iconName": "LiBook"
+  },
+  "Law School/1L/Spring/Contracts II/Contracts II.md": {
+    "iconName": "LiBook"
+  },
+  "Law School/1L/Spring/Legal Research, Writing, and Analysis II (EL)/Legal Research, Writing, and Analysis II (EL).md": {
+    "iconName": "LiBook"
+  }
+}

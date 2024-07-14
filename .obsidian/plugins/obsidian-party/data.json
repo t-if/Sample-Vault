@@ -1,0 +1,69 @@
+{
+  "effectConfigs": {
+    "checkbox": {
+      "effect": "sparkles",
+      "target": "element",
+      "count": [],
+      "speed": [],
+      "size": [],
+      "spread": [],
+      "lifetime": [],
+      "colors": [
+        "#FF9FE7",
+        "#F5C2E7",
+        "#C18BAC"
+      ],
+      "shapes": [
+        "heart"
+      ]
+    },
+    "task": {
+      "effect": "confetti",
+      "target": "element",
+      "count": [],
+      "speed": [],
+      "size": [],
+      "spread": [],
+      "lifetime": [],
+      "colors": [],
+      "shapes": []
+    },
+    "dataview": {
+      "effect": "sparkles",
+      "target": "element",
+      "count": [],
+      "speed": [],
+      "size": [],
+      "spread": [],
+      "lifetime": [],
+      "colors": [
+        "#FF9FE7",
+        "#F5C2E7",
+        "#C18BAC"
+      ],
+      "shapes": [
+        "heart"
+      ]
+    },
+    "kanban": {
+      "effect": "sparkles",
+      "target": "element",
+      "count": [],
+      "speed": [],
+      "size": [],
+      "spread": [],
+      "lifetime": [],
+      "colors": [
+        "#5AC898",
+        "#0C5C15",
+        "#7CB879",
+        "#7EF3CF",
+        "#6EA777"
+      ],
+      "shapes": [
+        "frog"
+      ]
+    }
+  },
+  "customShapes": {}
+}

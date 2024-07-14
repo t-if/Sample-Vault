@@ -1,0 +1,40 @@
+---
+type: note
+tags:
+  - productivity
+cssclasses:
+  - banner
+  - banner-fade
+icon: LiGitFork
+---
+![[perks.gif|banner]]
+## {{date:MMMM}} Dashboard
+> [!example|float-right-medium]+ Reminders
+>  - [ ] 
+
+> [!todo|float-right-medium]+
+> ```dataview
+> TASK
+> FROM "Productivity/Calendar/Daily Notes"
+> WHERE file.cday = date(today) AND !completed
+> ``` 
+
+> [!check|float-right-medium]+ Weekly Tasks
+>  ```dataview
+>  TASK
+>  FROM "Productivity/Calendar/Weekly Notes" 
+>  WHERE file.ctime >= date(today) - dur(1 week) and !completed
+>  ```
+
+> [!hint|float-right-medium]+ Shortcuts 
+>  - 
+
+
+```page-gallery
+fields: [file.name,project]
+filter: false
+count: false
+from: '#productivity'   
+where: date(file.name,"MM.dd.yyyy") = date(today) 
+orientation: square
+```

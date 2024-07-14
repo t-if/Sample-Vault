@@ -1,0 +1,90 @@
+{
+  "activePreset": "Default",
+  "presets": {
+    "Default": {
+      "cmdr-cmdr-adder;1": {
+        "position": 1,
+        "visible": true,
+        "exists": false
+      },
+      "cmdr-clickable-icon;1": {
+        "position": 2,
+        "visible": true,
+        "exists": false
+      },
+      "cmdr-clickable-icon;2": {
+        "position": 7,
+        "visible": true,
+        "exists": false
+      },
+      "plugin-obsidian-day-planner;1": {
+        "position": 8,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-obsidian-plugin-update-tracker;1": {
+        "position": 9,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-open-weather;1": {
+        "position": 12,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-properties;1": {
+        "position": 13,
+        "visible": false,
+        "exists": true
+      },
+      "plugin-editor-status;1": {
+        "position": 10,
+        "visible": true,
+        "exists": true
+      },
+      "left-region;1": {
+        "position": 0,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-editing-toolbar-cMenuToolbar-statusbar-button;1": {
+        "position": 14,
+        "visible": false,
+        "exists": true
+      },
+      "plugin-word-count;1": {
+        "position": 11,
+        "visible": true,
+        "exists": true
+      },
+      "plugin-obsidian-discordrpc;1": {
+        "position": 15,
+        "visible": false,
+        "exists": false
+      },
+      "cmdr-clickable-icon;3": {
+        "position": 4,
+        "visible": true,
+        "exists": false
+      },
+      "cmdr-clickable-icon;4": {
+        "position": 5,
+        "visible": true,
+        "exists": false
+      },
+      "cmdr-clickable-icon;5": {
+        "position": 3,
+        "visible": true,
+        "exists": false
+      },
+      "cmdr-clickable-icon;6": {
+        "position": 6,
+        "visible": true,
+        "exists": false
+      }
+    }
+  },
+  "presetsOrder": [
+    "Default"
+  ]
+}

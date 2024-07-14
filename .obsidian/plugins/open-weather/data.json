@@ -1,0 +1,16 @@
+{
+  "location": "",
+  "latitude": "",
+  "longitude": "",
+  "key": "",
+  "units": "imperial",
+  "language": "en",
+  "excludeFolder": "Formatting",
+  "weatherFormat1": "%desc% • Current Temp: %temp%°F • Feels Like: %feels%°F",
+  "weatherFormat2": "%name%: %dateMonth4% %dateDay2% - %timeH2%:%timeM% %ampm1%\nCurrent Temp: %temp%°F • Feels Like: %feels%°F\nWind: %wind-speed% mi/h from the %wind-dir%^ with gusts up to %wind-gust% mi/h^\nSunrise: %sunrise% • Sunset: %sunset%\n",
+  "weatherFormat3": "%icon%&nbsp;%dateMonth4% %dateDay2% %dateYear1% • %timeH2%:%timeM% %ampm1% • %desc%<br>&nbsp;Recorded Temp: %temp% • Felt like: %feels%<br>&nbsp;Wind: %wind-speed% mi/h from the %wind-dir%^ with gusts up to %wind-gust% mi/h^<br>&nbsp;Sunrise: %sunrise% • Sunset: %sunset%",
+  "weatherFormat4": "%icon%&nbsp;%dateMonth4% %dateDay2% %dateYear1% • %timeH2%:%timeM% %ampm1% • %desc%<br>&nbsp;Current Temp: %temp% • Feels like: %feels%<br>&nbsp;Wind: %wind-speed% mi/h from the %wind-dir%^ with gusts up to %wind-gust% mi/h^<br>&nbsp;Sunrise: %sunrise% • Sunset: %sunset%",
+  "statusbarActive": true,
+  "weatherFormatSB": " | %desc% 🌦️ %temp%°F ",
+  "statusbarUpdateFreq": "15"
+}

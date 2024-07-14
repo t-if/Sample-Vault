@@ -1,0 +1,188 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "077f715f-0b68-4cef-8bad-544f2deec8be",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Priority",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "ec5d14d2-d0a7-4b38-a7db-44adc6343ae3",
+            "content": "hi",
+            "color": "green"
+          },
+          {
+            "id": "0908c68e-3284-46d6-b434-aeb2a5e8c7a5",
+            "content": "low",
+            "color": "red"
+          },
+          {
+            "id": "c7bf8ce2-4031-4223-a8e0-dd20ed42ded6",
+            "content": "med",
+            "color": "yellow"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "8a78963a-c304-4c90-831d-d1fe7182ac22",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Item",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "e0588c83-e569-4e86-a9d6-c60412e8aa22",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "numberPrefix": "$",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Price",
+        "numberFormat": "currency",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "eb0b9fc9-61f3-47a9-afc6-2045ce8f8a8f",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-07-14T19:34:25.971Z",
+        "lastEditedDateTime": "2024-07-14T19:39:31.734Z",
+        "cells": [
+          {
+            "id": "4b29fb44-1056-4885-bba3-a0a28e23e516",
+            "columnId": "077f715f-0b68-4cef-8bad-544f2deec8be",
+            "tagId": "ec5d14d2-d0a7-4b38-a7db-44adc6343ae3",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8b24b24a-d2e6-4e12-9ba1-e38ce24a1f19",
+            "columnId": "8a78963a-c304-4c90-831d-d1fe7182ac22",
+            "content": "beach towel",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b6118a79-f341-439e-a7b4-d06a9f840612",
+            "columnId": "e0588c83-e569-4e86-a9d6-c60412e8aa22",
+            "value": 10,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "eed1ed2c-9abb-4659-a044-dbaa5e5295f4",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-07-14T19:36:42.100Z",
+        "lastEditedDateTime": "2024-07-14T19:38:44.484Z",
+        "cells": [
+          {
+            "id": "5cf6b6f4-0329-40d5-8157-e25b0dec62ee",
+            "columnId": "077f715f-0b68-4cef-8bad-544f2deec8be",
+            "tagId": "c7bf8ce2-4031-4223-a8e0-dd20ed42ded6",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "89476f63-2a3e-484b-92ba-a83bcd5dad83",
+            "columnId": "8a78963a-c304-4c90-831d-d1fe7182ac22",
+            "content": "eyeliner",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2212993d-9cde-440f-878a-c038ab5ca8d5",
+            "columnId": "e0588c83-e569-4e86-a9d6-c60412e8aa22",
+            "value": 15,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4eaa55f8-3745-47bb-a6af-23ff082ba330",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-07-14T19:36:38.156Z",
+        "lastEditedDateTime": "2024-07-14T19:37:53.041Z",
+        "cells": [
+          {
+            "id": "1c619070-1e2b-439b-8f6c-b3279525f8eb",
+            "columnId": "077f715f-0b68-4cef-8bad-544f2deec8be",
+            "tagId": "0908c68e-3284-46d6-b434-aeb2a5e8c7a5",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fa3e0f47-88a3-4876-a547-c2ba0d94376c",
+            "columnId": "8a78963a-c304-4c90-831d-d1fe7182ac22",
+            "content": "ice cream",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "abd92a77-cf63-4e46-896b-9519334a5d80",
+            "columnId": "e0588c83-e569-4e86-a9d6-c60412e8aa22",
+            "value": 6,
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.1"
+}

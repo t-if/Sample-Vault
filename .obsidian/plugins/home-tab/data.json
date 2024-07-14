@@ -1,0 +1,56 @@
+{
+  "logoType": "imagePath",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "Formatting/Pics/kit.gif",
+    "imageLink": ""
+  },
+  "logoScale": 3,
+  "iconColorType": "default",
+  "wordmark": "...?",
+  "customFont": "custom",
+  "fontSize": "4em",
+  "fontColorType": "accentColor",
+  "fontWeight": 400,
+  "maxResults": 10,
+  "showbookmarkedFiles": false,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": false,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Productivity/Calendar/Daily Notes/07.05.2024.md",
+      "timestamp": 1720402164331
+    },
+    {
+      "filepath": "Formatting/List Callouts.md",
+      "timestamp": 1720402006922
+    },
+    {
+      "filepath": "Productivity/Calendar/Daily Notes/07.03.2024.md",
+      "timestamp": 1720401870930
+    },
+    {
+      "filepath": "Productivity/Calendar/Daily Notes/07.04.2024.md",
+      "timestamp": 1720401869362
+    },
+    {
+      "filepath": "Productivity/Calendar/Daily Notes/07.06.2024.md",
+      "timestamp": 1720401867880
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": true,
+  "showOmnisearchExcerpt": true,
+  "fontColor": "#b4befe",
+  "font": "\"Cascadia Mono\""
+}
