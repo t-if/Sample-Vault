@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb0e5edc52e43682",
+        "id": "461c4522c4571e11",
         "type": "tabs",
         "children": [
           {
-            "id": "d35a55aaf147784a",
+            "id": "f01b037533a4168f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,7 +218,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "85568b53b2375801",
+  "active": "f01b037533a4168f",
   "lastOpenFiles": [
     "Productivity/Calendar/Monthly Notes/07.2024.md",
     "Formatting/Templates/Periodic Templates/{{month}}.md",
