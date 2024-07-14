@@ -11,6 +11,7 @@
 # Credits
 ## General
 - [Obsidian](https://obsidian.md/)
+- [APO+](https://www.artstation.com/apo_pixel)
 ## Themes and Snippets
 - [Chime](https://github.com/Bluemoondragon07/chime-theme) by Bluemoondragon07
 - [Minimal](https://github.com/kepano/obsidian-minimal) by kepano
